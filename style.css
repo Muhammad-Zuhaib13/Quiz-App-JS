@@ -51,12 +51,12 @@ h1 {
   gap: 13px;
 }
 .answer-button {
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 600;
   letter-spacing: 1px;
   padding: 13px 20px 13px;
   outline: 0;
-  color:#000;
+  color:#fff;
   border: 1px solid black;
   cursor: pointer;
   position: relative;
@@ -68,7 +68,7 @@ h1 {
 
 .answer-button:after {
   content: "";
-  background-color: #ffe54c;
+  background-color:#8bc34a;
   width: 100%;
   z-index: -1;
   position: absolute;
